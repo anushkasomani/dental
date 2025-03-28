@@ -1,2 +1,2 @@
 # Denta+
-One stop for all your solutions.
+One stop for all your solutions
